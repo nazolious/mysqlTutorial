@@ -1,0 +1,18 @@
+{
+  "name": "mysqltutorial",
+  "version": "1.0.0",
+  "description": "learning about the relationship of the tables.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nazolious"
+  },
+  "author": "Sinazo Bangani (snezzy)",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.13.0"
+  }
+}
